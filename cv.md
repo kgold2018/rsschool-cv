@@ -1,4 +1,8 @@
 # Klava Gold
+
+![](https://github.com/kgold2018/rsschool-cv/assets/38481415/d4cfb82e-927d-48ce-bef6-e0c919df4ced)
+
+
 ## Senior Software QA Engineer
 **Email:** klava.gold.ca@gmail.com | **Phone:** (310) 656-0965  
 **LinkedIn:** [linkedin.com/in/klavag](https://linkedin.com/in/klavag) | **GitHub:** [github.com/kgold2018](https://github.com/kgold2018)
