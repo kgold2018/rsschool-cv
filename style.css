@@ -1,4 +1,44 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #9ec39a;
     font-family: Arial, sans-serif;
+}
+
+main {
+    flex: 1;
+}
+
+.avatar {
+    background-color: #6975d1;
+}
+
+.footer {
+    background-color: #138381;
+    color: #022505;
+    text-align: center; 
+    padding: 10px 0; 
+}
+ 
+.footer__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__text {
+    margin-bottom: 10px;
+}
+
+.footer__image {
+        width: 50px;
+        height: auto;
+}
+
+.footer__link {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
 }
