@@ -10,33 +10,66 @@ main {
 .avatar {
     background-color: #6975d1;
 }
+nav {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px; 
+    background-color: #138381; 
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0; 
+    margin: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 15px;
+  }
+
+  nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+  }
+
+  pre {
+    /* Add background color */
+    background-clip: padding-box; 
+    padding: 1rem; /* Add some padding for spacing */
+    margin: 1rem 2;
+  }
 
 .footer {
     background-color: #138381;
     color: #022505;
     text-align: center; 
-    padding: 10px 0; 
-}
+    padding: 5px 0;
+  }
  
 .footer__block {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.footer__text {
     margin-bottom: 10px;
 }
 
+.footer__text {
+    margin-bottom: 20px 
+}
+
 .footer__image {
-        width: 50px;
+        width: 30px;
         height: auto;
 }
 
 .footer__link {
-    color: white;
+    color: #022505;
     text-decoration: none;
-    margin-left: 10px;
+    
 }
 
 .footer__link:hover {
