@@ -1,4 +1,3 @@
 #
-https://kgold2018.github.io/cv
-
-https://kgold2018.github.io/
+https://kgold2018.github.io/rsschool-cv/cv
+https://kgold2018.github.io/sschool-cv
